@@ -65,7 +65,8 @@ the Eschaton Arbitrage are extremely touchy feely and tend to be very casual
 about physical contact and nudity. This often causes confusion when visiting
 planets or when interacting with other trade fleet vessels from a different
 lineage. Most people who casually observe them tend to assume that the ship is
-basically a non-stop orgy.
+basically a non-stop orgy. The crew vary between being very bored of
+explaining and finding this quite funny.
 
 ## Romance
 
