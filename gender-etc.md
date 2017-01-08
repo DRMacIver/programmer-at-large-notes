@@ -3,9 +3,9 @@
 Note: All of this is particularly undecided and may change as it becomes
 plot relevant.
 
-Trigger warning: If you have strong feelings about gender this might be a
-bit triggery. The society described is not really less oppressive than our
-own, it just oppresses different things.
+Trigger warning: If you have strong feelings about gender and sexuality
+this might be a bit triggery. The society described is not really less
+oppressive than our own, it just oppresses different things.
 
 ## Gender
 
