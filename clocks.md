@@ -5,7 +5,7 @@ Time, being money, is of course of vital importance for trade.
 Which is why trader ships have so much of it. There are at least four
 different notions of time they must pay attention to.
 
-## Inter ship timae
+## Inter ship time
 
 The trading fleet records all history against a universal time standard
 that everyone can agree on. As the point of divergence may have been very
