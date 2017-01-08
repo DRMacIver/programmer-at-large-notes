@@ -284,7 +284,7 @@ When this is done the bytes are pronounced as follows ([taken from here](http://
 254. zof
 255. zom
 
-With the name read off in least signifcant form. So if the UUID ended FD0B
+With the name read off in little endian order. So if the UUID ended FD0B
 (253, 11), then their casual address would be zod(11)-bim(253).
 
 People can and do use casual address in person, but it's considered a
