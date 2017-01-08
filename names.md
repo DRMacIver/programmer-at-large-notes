@@ -27,262 +27,265 @@ be addressed in casual mode by the last two bytes.
 
 When this is done the bytes are pronounced as follows ([taken from here](http://hewo.xedoloh.com/2015/04/base-256/)):
 
-0. bac
-1. bad
-2. baf
-3. bam
-4. bec
-5. bed
-6. bef
-7. bem
-8. bic
-9. bid
-10. bif
-11. bim
-12. boc
-13. bod
-14. bof
-15. bom
-16. gac
-17. gad
-18. gaf
-19. gam
-20. gec
-21. ged
-22. gef
-23. gem
-24. gic
-25. gid
-26. gif
-27. gim
-28. goc
-29. god
-30. gof
-31. gom
-32. hac
-33. had
-34. haf
-35. ham
-36. hec
-37. hed
-38. hef
-39. hem
-40. hic
-41. hid
-42. hif
-43. him
-44. hoc
-45. hod
-46. hof
-47. hom
-48. jac
-49. jad
-50. jaf
-51. jam
-52. jec
-53. jed
-54. jef
-55. jem
-56. jic
-57. jid
-58. jif
-59. jim
-60. joc
-61. jod
-62. jof
-63. jom
-64. kac
-65. kad
-66. kaf
-67. kam
-68. kec
-69. ked
-70. kef
-71. kem
-72. kic
-73. kid
-74. kif
-75. kim
-76. koc
-77. kod
-78. kof
-79. kom
-80. lac
-81. lad
-82. laf
-83. lam
-84. lec
-85. led
-86. lef
-87. lem
-88. lic
-89. lid
-90. lif
-91. lim
-92. loc
-93. lod
-94. lof
-95. lom
-96. nac
-97. nad
-98. naf
-99. nam
-100. nec
-101. ned
-102. nef
-103. nem
-104. nic
-105. nid
-106. nif
-107. nim
-108. noc
-109. nod
-110. nof
-111. nom
-112. pac
-113. pad
-114. paf
-115. pam
-116. pec
-117. ped
-118. pef
-119. pem
-120. pic
-121. pid
-122. pif
-123. pim
-124. poc
-125. pod
-126. pof
-127. pom
-128. qac
-129. qad
-130. qaf
-131. qam
-132. qec
-133. qed
-134. qef
-135. qem
-136. qic
-137. qid
-138. qif
-139. qim
-140. qoc
-141. qod
-142. qof
-143. qom
-144. rac
-145. rad
-146. raf
-147. ram
-148. rec
-149. red
-150. ref
-151. rem
-152. ric
-153. rid
-154. rif
-155. rim
-156. roc
-157. rod
-158. rof
-159. rom
-160. sac
-161. sad
-162. saf
-163. sam
-164. sec
-165. sed
-166. sef
-167. sem
-168. sic
-169. sid
-170. sif
-171. sim
-172. soc
-173. sod
-174. sof
-175. som
-176. tac
-177. tad
-178. taf
-179. tam
-180. tec
-181. ted
-182. tef
-183. tem
-184. tic
-185. tid
-186. tif
-187. tim
-188. toc
-189. tod
-190. tof
-191. tom
-192. vac
-193. vad
-194. vaf
-195. vam
-196. vec
-197. ved
-198. vef
-199. vem
-200. vic
-201. vid
-202. vif
-203. vim
-204. voc
-205. vod
-206. vof
-207. vom
-208. wac
-209. wad
-210. waf
-211. wam
-212. wec
-213. wed
-214. wef
-215. wem
-216. wic
-217. wid
-218. wif
-219. wim
-220. woc
-221. wod
-222. wof
-223. wom
-224. yac
-225. yad
-226. yaf
-227. yam
-228. yec
-229. yed
-230. yef
-231. yem
-232. yic
-233. yid
-234. yif
-235. yim
-236. yoc
-237. yod
-238. yof
-239. yom
-240. zac
-241. zad
-242. zaf
-243. zam
-244. zec
-245. zed
-246. zef
-247. zem
-248. zic
-249. zid
-250. zif
-251. zim
-252. zoc
-253. zod
-254. zof
-255. zom
+
+<ol start=0>
+<li>bac</li>
+<li>bad</li>
+<li>baf</li>
+<li>bam</li>
+<li>bec</li>
+<li>bed</li>
+<li>bef</li>
+<li>bem</li>
+<li>bic</li>
+<li>bid</li>
+<li>bif</li>
+<li>bim</li>
+<li>boc</li>
+<li>bod</li>
+<li>bof</li>
+<li>bom</li>
+<li>gac</li>
+<li>gad</li>
+<li>gaf</li>
+<li>gam</li>
+<li>gec</li>
+<li>ged</li>
+<li>gef</li>
+<li>gem</li>
+<li>gic</li>
+<li>gid</li>
+<li>gif</li>
+<li>gim</li>
+<li>goc</li>
+<li>god</li>
+<li>gof</li>
+<li>gom</li>
+<li>hac</li>
+<li>had</li>
+<li>haf</li>
+<li>ham</li>
+<li>hec</li>
+<li>hed</li>
+<li>hef</li>
+<li>hem</li>
+<li>hic</li>
+<li>hid</li>
+<li>hif</li>
+<li>him</li>
+<li>hoc</li>
+<li>hod</li>
+<li>hof</li>
+<li>hom</li>
+<li>jac</li>
+<li>jad</li>
+<li>jaf</li>
+<li>jam</li>
+<li>jec</li>
+<li>jed</li>
+<li>jef</li>
+<li>jem</li>
+<li>jic</li>
+<li>jid</li>
+<li>jif</li>
+<li>jim</li>
+<li>joc</li>
+<li>jod</li>
+<li>jof</li>
+<li>jom</li>
+<li>kac</li>
+<li>kad</li>
+<li>kaf</li>
+<li>kam</li>
+<li>kec</li>
+<li>ked</li>
+<li>kef</li>
+<li>kem</li>
+<li>kic</li>
+<li>kid</li>
+<li>kif</li>
+<li>kim</li>
+<li>koc</li>
+<li>kod</li>
+<li>kof</li>
+<li>kom</li>
+<li>lac</li>
+<li>lad</li>
+<li>laf</li>
+<li>lam</li>
+<li>lec</li>
+<li>led</li>
+<li>lef</li>
+<li>lem</li>
+<li>lic</li>
+<li>lid</li>
+<li>lif</li>
+<li>lim</li>
+<li>loc</li>
+<li>lod</li>
+<li>lof</li>
+<li>lom</li>
+<li>nac</li>
+<li>nad</li>
+<li>naf</li>
+<li>nam</li>
+<li>nec</li>
+<li>ned</li>
+<li>nef</li>
+<li>nem</li>
+<li>nic</li>
+<li>nid</li>
+<li>nif</li>
+<li>nim</li>
+<li>noc</li>
+<li>nod</li>
+<li>nof</li>
+<li>nom</li>
+<li>pac</li>
+<li>pad</li>
+<li>paf</li>
+<li>pam</li>
+<li>pec</li>
+<li>ped</li>
+<li>pef</li>
+<li>pem</li>
+<li>pic</li>
+<li>pid</li>
+<li>pif</li>
+<li>pim</li>
+<li>poc</li>
+<li>pod</li>
+<li>pof</li>
+<li>pom</li>
+<li>qac</li>
+<li>qad</li>
+<li>qaf</li>
+<li>qam</li>
+<li>qec</li>
+<li>qed</li>
+<li>qef</li>
+<li>qem</li>
+<li>qic</li>
+<li>qid</li>
+<li>qif</li>
+<li>qim</li>
+<li>qoc</li>
+<li>qod</li>
+<li>qof</li>
+<li>qom</li>
+<li>rac</li>
+<li>rad</li>
+<li>raf</li>
+<li>ram</li>
+<li>rec</li>
+<li>red</li>
+<li>ref</li>
+<li>rem</li>
+<li>ric</li>
+<li>rid</li>
+<li>rif</li>
+<li>rim</li>
+<li>roc</li>
+<li>rod</li>
+<li>rof</li>
+<li>rom</li>
+<li>sac</li>
+<li>sad</li>
+<li>saf</li>
+<li>sam</li>
+<li>sec</li>
+<li>sed</li>
+<li>sef</li>
+<li>sem</li>
+<li>sic</li>
+<li>sid</li>
+<li>sif</li>
+<li>sim</li>
+<li>soc</li>
+<li>sod</li>
+<li>sof</li>
+<li>som</li>
+<li>tac</li>
+<li>tad</li>
+<li>taf</li>
+<li>tam</li>
+<li>tec</li>
+<li>ted</li>
+<li>tef</li>
+<li>tem</li>
+<li>tic</li>
+<li>tid</li>
+<li>tif</li>
+<li>tim</li>
+<li>toc</li>
+<li>tod</li>
+<li>tof</li>
+<li>tom</li>
+<li>vac</li>
+<li>vad</li>
+<li>vaf</li>
+<li>vam</li>
+<li>vec</li>
+<li>ved</li>
+<li>vef</li>
+<li>vem</li>
+<li>vic</li>
+<li>vid</li>
+<li>vif</li>
+<li>vim</li>
+<li>voc</li>
+<li>vod</li>
+<li>vof</li>
+<li>vom</li>
+<li>wac</li>
+<li>wad</li>
+<li>waf</li>
+<li>wam</li>
+<li>wec</li>
+<li>wed</li>
+<li>wef</li>
+<li>wem</li>
+<li>wic</li>
+<li>wid</li>
+<li>wif</li>
+<li>wim</li>
+<li>woc</li>
+<li>wod</li>
+<li>wof</li>
+<li>wom</li>
+<li>yac</li>
+<li>yad</li>
+<li>yaf</li>
+<li>yam</li>
+<li>yec</li>
+<li>yed</li>
+<li>yef</li>
+<li>yem</li>
+<li>yic</li>
+<li>yid</li>
+<li>yif</li>
+<li>yim</li>
+<li>yoc</li>
+<li>yod</li>
+<li>yof</li>
+<li>yom</li>
+<li>zac</li>
+<li>zad</li>
+<li>zaf</li>
+<li>zam</li>
+<li>zec</li>
+<li>zed</li>
+<li>zef</li>
+<li>zem</li>
+<li>zic</li>
+<li>zid</li>
+<li>zif</li>
+<li>zim</li>
+<li>zoc</li>
+<li>zod</li>
+<li>zof</li>
+<li>zom</li>
+</ol>
 
 With the name read off in little endian order. So if the UUID ended FD0B
 (253, 11), then their casual address would be zod(11)-bim(253).
