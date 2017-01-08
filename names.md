@@ -313,8 +313,8 @@ a registered use name is not required (but is considered a bit weird and
 subtly disapproved of).
 
 Newborn babies are assigned a use name at random from a standard pool
-(which may be changed over time by vote but tends to be pretty stable
-- you occasionally get votes to include new names encountered in local
+(which may be changed over time by vote but tends to be pretty stable -
+you occasionally get votes to include new names encountered in local
 cultures that people think are cool, and sometimes names held by
 particularly disgraced crew members are voted out of the pool).
 
