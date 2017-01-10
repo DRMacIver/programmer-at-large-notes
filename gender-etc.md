@@ -88,8 +88,8 @@ it removes some sources of internal tension and because it rather effectively
 sets them apart from most system bound culture they encounter, which helps
 foster an increased sense of unity.
 
-These behaviours are by no mean unique amongst the trading fleet. It goes
-back a number of generations in Eschaton Arbitrage's lineage and it has
-proven to be a particularly successful lineage so is comparatively common
-in local space, but they still routinely encounter other traders that
+These behaviours and norms are by no means either unique or ubiquitous amongst
+the trading fleet. They go back a number of generations in Eschaton Arbitrage's
+lineage and it has proven to be a particularly successful lineage so is comparatively
+common in local space, but they still routinely encounter other traders that
 behave radically differently.
