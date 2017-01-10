@@ -57,7 +57,7 @@ at large who specializes it.
 Still somewhat undefined but here's what I know so far:
 
 * Arthur is very detail oriented.
-* We would probably consider Arthur to be at least somewhat on the autistic spectrum
+* We would probably consider Arthur to be at least somewhat on the autism spectrum
   (though the crew does not have any concept that maps directly onto that)
 * Arthur is not notably creative or brilliant - they're maybe in the upper third
   of crew intelligence wise, but they're definitely not in the top 10%.
