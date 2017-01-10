@@ -10,9 +10,16 @@ oppressive than our own, it just oppresses different things.
 ## Gender
 
 The Eschaton Arbitrage more or less has a policy against considering gender
-to be a thing. The dialect they speak explicitly lacks gendered forms of words,
-and most forms of personal expression through appearance (regardless of whether
-we would perceive them to be gendered) are socially discouraged.
+to be a thing. The dialect they speak explicitly lacks gendered forms of words
+(note: All text is translated. Where it is translated from the Eschaton Arbitrage
+dialect the pronoun choice will always be 'they'. When translated from a local
+dialect with gendered pronouns the English translation will preserve those gendered
+pronouns. Crew members will be hearing those words translated into Crew dialect,
+but a mix of translation notes and context tags on their HUD will be displaying
+additional information, so although the translated pronoun will be ungendered they
+will be aware of the gender information conveyed), and most forms of personal
+expression through appearance (regardless of whether we would perceive them to
+be gendered) are socially discouraged.
 
 Some people do end up wanting to express themselves more and adopt jewelry,
 clothing, mannerisms, etc. that they pick up from visiting planets or historical
