@@ -60,7 +60,10 @@ Still somewhat undefined but here's what I know so far:
 * We would probably consider Arthur to be at least somewhat on the autism spectrum
   (though the crew does not have any concept that maps directly onto that)
 * Arthur is not notably creative or brilliant - they're maybe in the upper third
-  of crew intelligence wise, but they're definitely not in the top 10%.
+  of crew intelligence wise, but they're definitely not in the top 10%. However the
+  Crew are notably intelligent to what we could consider baseline, so this *does* easily
+  put them in the top 10% for us, probably even the top 5%. Nevertheless they're no
+  genius.
 * Arthur has fairly bad social anxiety, which is a significant problem for them in the
   tightly knit communal culture of the crew.
 * Arthur has a somewhat acerbic sense of humour when they relax enough to show it.
@@ -104,6 +107,7 @@ that sounded cool)
 ### Personality
 
 * Slightly scary levels of aesthetic appreciation for blowing things up.
+* Probably rather brilliant in areas of speciality, but doesn't like showing it off.
 * Likes terrible VR shows a bit too much.
 * Tends to tease.
 * Very enthusiastic.
