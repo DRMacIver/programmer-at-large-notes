@@ -85,3 +85,4 @@ to debug:
 * [Debugging Your Operating System: A Lesson In Memory Allocation](https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/)
 * [Who called git?](https://www.schneems.com/2016/11/28/who-called-git-an-unusual-debugging-story/)
 * [Attack of the DaliBug](http://pozorvlak.livejournal.com/150891.html)
+* [Post-mortems by Dan Luu](https://github.com/danluu/post-mortems)
