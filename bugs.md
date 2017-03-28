@@ -86,3 +86,5 @@ to debug:
 * [Who called git?](https://www.schneems.com/2016/11/28/who-called-git-an-unusual-debugging-story/)
 * [Attack of the DaliBug](http://pozorvlak.livejournal.com/150891.html)
 * [Post-mortems by Dan Luu](https://github.com/danluu/post-mortems)
+* [We had a unit test once which only failed on Sundays](https://qntm.org/unit)
+* [Rachel by the Bay](https://rachelbythebay.com/w/)
